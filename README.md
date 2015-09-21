@@ -28,4 +28,5 @@ Edit config.conf to set your API key and secret, as well as any other values you
 
 <!---
 #CPTAGS:community-unsupported integration automation
+#TBICON:images/python_icon.png
 -->
